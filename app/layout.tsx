@@ -41,6 +41,9 @@ export const metadata: Metadata = {
     "kontraktor jawa barat",
     "PT Quadra Global Nusantara"
   ],
+  verification: {
+    google: 'kseDHac5MrZx15_beLTq0JmJ04RGZDy1WkUiiNMM4x4',
+  },
 
   authors: [{ name: "PT. QUADRA GLOBAL NUSANTARA" }],
   creator: "PT. QUADRA GLOBAL NUSANTARA",
