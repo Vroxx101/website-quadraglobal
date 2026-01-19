@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://quadraglobal.id'
+    const baseUrl = 'https://quadraglobal.vercel.app'
 
     return [
         {
