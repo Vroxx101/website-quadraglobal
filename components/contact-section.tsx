@@ -228,12 +228,15 @@ export function ContactSection() {
                                                 <SelectValue placeholder="Pilih Jenis Proyek" />
                                             </SelectTrigger>
                                             <SelectContent className="rounded-xl border-gray-100 shadow-2xl">
-                                                <SelectItem value="Hotmix Aspal">Hotmix Aspal</SelectItem>
-                                                <SelectItem value="Betonisasi (Pekerjaan Beton)">Betonisasi (Pekerjaan Beton)</SelectItem>
-                                                <SelectItem value="Konstruksi Jalan">Konstruksi Jalan</SelectItem>
-                                                <SelectItem value="Konstruksi Jembatan">Konstruksi Jembatan</SelectItem>
+                                                <SelectItem value="Survei Topografi">Survei Topografi</SelectItem>
+                                                <SelectItem value="Cut and Fill">Cut and Fill</SelectItem>
+                                                <SelectItem value="Pengaspalan">Pengaspalan</SelectItem>
+                                                <SelectItem value="Betonisasi">Betonisasi</SelectItem>
+                                                <SelectItem value="Instalasi Telekomunikasi">Instalasi Telekomunikasi</SelectItem>
+                                                <SelectItem value="Konstruksi">Konstruksi</SelectItem>
+                                                <SelectItem value="Pengecatan">Pengecatan</SelectItem>
+                                                <SelectItem value="Marka Jalan">Marka Jalan</SelectItem>
                                                 <SelectItem value="Paving Block">Paving Block</SelectItem>
-                                                <SelectItem value="Pasokan Material">Pasokan Material</SelectItem>
                                             </SelectContent>
                                         </Select>
                                     </div>
