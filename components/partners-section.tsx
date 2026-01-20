@@ -11,7 +11,7 @@ const partners = [
     { name: "PT. Sri Astra", logo: "mitra/sri_astra_logo.png" },
     { name: "Pertamina", logo: "mitra/panasonic.png" },
     { name: "Waskita Karya", logo: "mitra/SK.png" },
-    { name: "Wijaya Karya", logo: "mitra/sri_astra_logo.png" },
+    { name: "Wijaya Karya", logo: "mitra/OIP.png" },
 ]
 
 export function PartnersSection() {
