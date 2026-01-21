@@ -85,16 +85,14 @@ const PROJECTS = [
     },
     {
         id: 5,
-        title: "Elektrikal",
-        category: "Pekerjaan Elektrikal",
-        location: "Jawa Barat, Indonesia",
-        client: "Gedung Perkantoran Pusat",
-        date: "2024",
-        description: "Instalasi dan commissioning sistem panel listrik utama serta pembagian jalur daya untuk gedung bertingkat.",
+        title: "Proyek Belum Tersedia",
+        category: "Proyek Belum Tersedia",
+        location: "-",
+        client: "-",
+        date: "-",
+        description: "Kami sedang memperbarui galeri proyek untuk kategori ini.",
         images: [
-            "elektrikal/elektrikal.webp",
-            "elektrikal/elektrikal2.webp",
-            "elektrikal/elektrikal3.webp",
+            "logo-qgn.png"
         ],
         icon: <Zap className="w-5 h-5" />,
         isLandscape: false
